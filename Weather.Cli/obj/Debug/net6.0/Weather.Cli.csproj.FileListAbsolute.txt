@@ -1,0 +1,15 @@
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.exe
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.deps.json
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.runtimeconfig.json
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.dll
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\bin\Debug\net6.0\ref\Weather.Cli.dll
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.pdb
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.csproj.AssemblyReference.cache
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.AssemblyInfoInputs.cache
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.AssemblyInfo.cs
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.csproj.CoreCompileInputs.cache
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.dll
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\ref\Weather.Cli.dll
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.pdb
+D:\Old\Projects\Nick\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.genruntimeconfig.cache

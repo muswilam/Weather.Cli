@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Old\\Projects\\Nick\\Weather.Cli\\Weather.Cli\\Weather.Cli.csproj": {}
+    "D:\\old\\projects\\nick\\weather.cli\\weather.cli\\Weather.Cli.csproj": {}
   },
   "projects": {
-    "D:\\Old\\Projects\\Nick\\Weather.Cli\\Weather.Cli\\Weather.Cli.csproj": {
+    "D:\\old\\projects\\nick\\weather.cli\\weather.cli\\Weather.Cli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Old\\Projects\\Nick\\Weather.Cli\\Weather.Cli\\Weather.Cli.csproj",
+        "projectUniqueName": "D:\\old\\projects\\nick\\weather.cli\\weather.cli\\Weather.Cli.csproj",
         "projectName": "Weather.Cli",
-        "projectPath": "D:\\Old\\Projects\\Nick\\Weather.Cli\\Weather.Cli\\Weather.Cli.csproj",
+        "projectPath": "D:\\old\\projects\\nick\\weather.cli\\weather.cli\\Weather.Cli.csproj",
         "packagesPath": "C:\\Users\\Twins\\.nuget\\packages\\",
-        "outputPath": "D:\\Old\\Projects\\Nick\\Weather.Cli\\Weather.Cli\\obj\\",
+        "outputPath": "D:\\old\\projects\\nick\\weather.cli\\weather.cli\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
