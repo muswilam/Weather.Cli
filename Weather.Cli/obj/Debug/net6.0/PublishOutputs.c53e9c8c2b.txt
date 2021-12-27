@@ -1,0 +1,5 @@
+D:\old\projects\nick\weather.cli\weather.cli\bin\Debug\net6.0\publish\Weather.Cli.exe
+D:\old\projects\nick\weather.cli\weather.cli\bin\Debug\net6.0\publish\Weather.Cli.dll
+D:\old\projects\nick\weather.cli\weather.cli\bin\Debug\net6.0\publish\Weather.Cli.deps.json
+D:\old\projects\nick\weather.cli\weather.cli\bin\Debug\net6.0\publish\Weather.Cli.runtimeconfig.json
+D:\old\projects\nick\weather.cli\weather.cli\bin\Debug\net6.0\publish\Weather.Cli.pdb

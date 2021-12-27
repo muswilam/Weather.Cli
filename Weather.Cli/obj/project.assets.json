@@ -12,10 +12,10 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "D:\\Old\\Projects\\Nick\\Weather.Cli\\Weather.Cli\\Weather.Cli.csproj",
-      "projectName": "Weather.Cli",
+      "projectName": "Bila.Q.Weather.Cli",
       "projectPath": "D:\\Old\\Projects\\Nick\\Weather.Cli\\Weather.Cli\\Weather.Cli.csproj",
       "packagesPath": "C:\\Users\\Twins\\.nuget\\packages\\",
       "outputPath": "D:\\Old\\Projects\\Nick\\Weather.Cli\\Weather.Cli\\obj\\",
